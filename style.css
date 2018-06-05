@@ -1,0 +1,45 @@
+#conteneur{
+  display: flex;
+  flex-wrap: wrap;
+}
+.element1{
+    background-color: rgb(46,204,113);
+    width: 80%;
+}
+.element2{
+  background-color: rgb(41,128,185);
+  width: 20%;
+  height: 20px;
+}
+.element3{
+  background-color: rgb(231,76,60);
+  width: 33.33%;
+}
+.element4{
+  background-color: rgb(230,126,34);
+  width:33.33%;
+}
+.element5{
+  background-color: rgb(170,183,184);
+  width:33.33%;
+}
+.element6{
+  background-color: rgb(231,76,60);
+  width: 33.33%;
+}
+.element7{
+  background-color: rgb(243,156,18);
+  width: 22.22%;
+}
+.element8{
+  background-color: rgb(69,179,157);
+  width: 22.22%;
+}
+.element9{
+  background-color: rgb(211,84,0);
+  width: 22.22%;
+}
+.element10{
+  background-color: rgb(40,55,71);
+  width: 100%;
+}
